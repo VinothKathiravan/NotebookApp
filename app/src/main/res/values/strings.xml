@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Notebook</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_signin">Log In</string>
+    <string name="no_result_text">No notes available. <br/>Please signin and create one.</string>
+    <string name="title_activity_edit_notes">Add Notes</string>
+    <string name="action_save">Save</string>
+    <string name="title_hint">Title</string>
+    <string name="notes_hint">Notes</string>
+    <string name="save_btn_text">Save to Dropbox</string>
+</resources>
